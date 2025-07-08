@@ -1,0 +1,27 @@
+# Core data science libraries
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+
+# Machine learning libraries
+scikit-learn
+tensorflow
+torch
+torchvision
+
+# Jupyter and notebook extensions
+jupyterlab
+ipywidgets
+plotly
+
+# Additional utilities
+requests
+beautifulsoup4
+lxml
+
+# Development tools
+black
+flake8
+pytest
