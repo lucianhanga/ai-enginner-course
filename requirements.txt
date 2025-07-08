@@ -25,3 +25,7 @@ lxml
 black
 flake8
 pytest
+
+# text processing libraries
+nltk
+
