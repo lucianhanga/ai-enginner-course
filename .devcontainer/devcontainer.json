@@ -2,7 +2,7 @@
 	"name": "Jupyter Data Science",
 	"build": {
 		"dockerfile": "Dockerfile",
-		"context": "."
+		"context": ".."
 	},
 	"customizations": {
 		"vscode": {
