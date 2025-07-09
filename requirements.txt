@@ -29,6 +29,7 @@ pytest
 # text processing libraries
 nltk
 spacy
+textblob
 
 # Jupyter/IPython support for visualization
 ipython<9
