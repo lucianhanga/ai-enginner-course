@@ -31,5 +31,5 @@ nltk
 spacy
 
 # Jupyter/IPython support for visualization
-ipython
+ipython<9
 
