@@ -34,3 +34,6 @@ textblob
 # Jupyter/IPython support for visualization
 ipython<9
 
+# huggingface transformers for NLP tasks
+transformers
+tf-keras
