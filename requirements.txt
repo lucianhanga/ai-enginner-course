@@ -30,3 +30,6 @@ pytest
 nltk
 spacy
 
+# Jupyter/IPython support for visualization
+ipython
+
