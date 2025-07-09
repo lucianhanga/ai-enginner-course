@@ -28,4 +28,5 @@ pytest
 
 # text processing libraries
 nltk
+spacy
 
