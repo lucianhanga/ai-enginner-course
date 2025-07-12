@@ -30,6 +30,8 @@ pytest
 nltk
 spacy
 textblob
+gensim
+vaderSentiment
 
 # Jupyter/IPython support for visualization
 ipython<9
