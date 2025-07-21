@@ -20,6 +20,7 @@ plotly
 requests
 beautifulsoup4
 lxml
+python-dotenv
 
 # Development tools
 black
@@ -39,3 +40,6 @@ ipython<9
 # huggingface transformers for NLP tasks
 transformers
 tf-keras
+
+# OpenAI API client
+openai
