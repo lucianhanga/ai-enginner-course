@@ -43,3 +43,6 @@ tf-keras
 
 # OpenAI API client
 openai
+
+# LangChain framework for LLM applications
+langchain
