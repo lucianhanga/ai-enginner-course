@@ -46,3 +46,4 @@ openai
 
 # LangChain framework for LLM applications
 langchain
+langchain-community
