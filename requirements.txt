@@ -43,6 +43,14 @@ tf-keras
 
 # OpenAI API client
 openai
+tiktoken
+
+# LangChain framework for LLM applications
+langchain
+langchain-community
+
+# Vector database for similarity search
+faiss-cpu
 
 # LangChain framework for LLM applications
 langchain
